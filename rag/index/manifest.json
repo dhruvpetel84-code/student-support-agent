@@ -1,0 +1,5 @@
+{
+  "fingerprint": "7bbde3dac30f09ef9b7e4f9084b0e14035df0be5b50746498bc2246b0a0d6c71",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "source": "rag\\sample_handbook.md"
+}
