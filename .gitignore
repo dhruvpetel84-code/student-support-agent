@@ -1,0 +1,28 @@
+# Environment — never commit the real .env file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# SQLite database
+*.sqlite3
+
+# FAISS index
+rag/index/
+
+# Trace logs
+reports/traces/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
